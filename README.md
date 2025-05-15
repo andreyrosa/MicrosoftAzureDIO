@@ -95,9 +95,12 @@ O SLA do Azure define os níveis de disponibilidade e o tempo máximo de inativi
 
 ### 🛠 Tecnologias Utilizadas
 
-![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)  
-![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg)  
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+### 🛠 Tecnologias Utilizadas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+
+
 
 
