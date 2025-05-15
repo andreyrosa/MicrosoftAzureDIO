@@ -3,10 +3,13 @@
 Este repositório reúne resumos, anotações e conceitos aprendidos sobre máquinas virtuais (VMs) no Microsoft Azure, com foco em documentação técnica clara e estruturada para apoiar estudos e futuras implementações. 📚✨
 
 ---
-
-## 📋 Sumário
+## 📑 Sumário
 
 - [Introdução](#introdução)
+- [Sobre mim](#sobre-mim)  
+- [O que aprendi no Azure](#o-que-aprendi-no-azure)  
+- [Contato](#contato)
+
 - [Conceitos Fundamentais sobre Máquinas Virtuais no Azure](#conceitos-fundamentais-sobre-máquinas-virtuais-no-azure)
 - [Redundância e Alta Disponibilidade](#redundância-e-alta-disponibilidade)
 - [SLA (Service Level Agreement) e Disponibilidade](#sla-service-level-agreement-e-disponibilidade)
@@ -73,3 +76,28 @@ O SLA do Azure define os níveis de disponibilidade e o tempo máximo de inativi
 
 - Escolha a região mais próxima dos usuários para minimizar latência. 🌐  
 - Utilize zonas de disponibilidade
+
+
+## 📚 O que aprendi no Azure
+
+- 🌐 **Grupo de Recursos**  
+- 📜 **Log de Atividades**  
+- 🔐 **IAM (Controle de Acesso)**  
+- ⛔ **Bloqueios**  
+- ⚡ **Eventos e Automatizações**  
+- 🌍 **VNET e Endereçamento de Rede**
+
+
+![GitHub repo size](https://img.shields.io/github/repo-size/seuusuario/seurepositorio?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/seuusuario/seurepositorio?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/seuusuario/seurepositorio?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/seuusuario/seurepositorio?style=flat-square)
+
+### 🛠 Tecnologias Utilizadas
+
+![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)  
+![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg)  
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+
+
