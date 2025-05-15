@@ -78,20 +78,75 @@ O SLA do Azure define os níveis de disponibilidade e o tempo máximo de inativi
 - Utilize zonas de disponibilidade
 
 
-## 📚 O que aprendi no Azure
+# ☁️ Aprendizados no Microsoft Azure – Módulo Prático
 
-- 🌐 **Grupo de Recursos**  
-- 📜 **Log de Atividades**  
-- 🔐 **IAM (Controle de Acesso)**  
-- ⛔ **Bloqueios**  
-- ⚡ **Eventos e Automatizações**  
-- 🌍 **VNET e Endereçamento de Rede**
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-2ea44f?style=for-the-badge)
+![Lab](https://img.shields.io/badge/Lab-AZ--900-blue?style=for-the-badge)
 
+## 📘 Sobre
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seuusuario/seurepositorio?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/seuusuario/seurepositorio?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/seuusuario/seurepositorio?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/seuusuario/seurepositorio?style=flat-square)
+Neste módulo prático do curso **AZ-900 (Microsoft Azure Fundamentals)**, adquiri conhecimentos essenciais sobre o uso do Azure para gerenciamento de recursos em nuvem. Abaixo estão os principais tópicos que estudei e pratiquei na plataforma.
+
+---
+
+## 🧠 Habilidades e Conceitos Aprendidos
+
+### 📦 Grupo de Recursos
+- Criação de **Resource Groups** para organizar e gerenciar recursos relacionados a uma mesma solução.
+- Escolha de região e associação com assinatura adequada.
+  
+### 📜 Log de Atividades
+- Monitoramento de **ações e eventos** dentro do Azure.
+- Verificação de **quando e por quem** um recurso foi criado, alterado ou excluído.
+
+### 👥 IAM - Controle de Acesso
+- Uso do **IAM (Identity and Access Management)** para:
+  - Adicionar e remover usuários.
+  - Gerenciar **permissões** e funções (RBAC – Role-Based Access Control).
+
+### 🔒 Bloqueios
+- Aplicação de **Locks** (`Read-only` e `Delete`) para evitar exclusões ou modificações acidentais de recursos.
+
+### ⚙️ Eventos
+- Utilização de **Eventos** para criar **automatizações** com base em ações dentro do ambiente (ex: criação de recurso).
+
+### 🌐 Rede Virtual (VNET)
+- Criação de **VNETs (Virtual Networks)** para organização de redes privadas no Azure.
+- Definição de **endereçamento IP** para os ambientes virtuais.
+
+---
+
+## 📸 Capturas de Tela
+
+| Criação do Grupo de Recursos | Visualização do Grupo Criado |
+|-----------------------------|------------------------------|
+| ![Criação](./caminho/para/imagem1.png) | ![Grupo](./caminho/para/imagem2.png) |
+
+> Substitua os caminhos acima pelas imagens reais no seu repositório (`/img/criacao.png`, por exemplo).
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+- 🌐 **Microsoft Azure**
+- 🛠️ **Painel do Azure Portal**
+- 🔐 **IAM (Controle de Acesso)**
+- 🖥️ **Resource Manager**
+
+---
+
+## 🏁 Conclusão
+
+Esse aprendizado foi fundamental para entender como gerenciar a **infraestrutura em nuvem de forma segura, organizada e automatizada**. Agora estou preparado para criar ambientes cloud com boas práticas e maior controle.
+
+---
+
+## 📎 Links úteis
+
+- [Portal do Azure](https://portal.azure.com/)
+- [Documentação Oficial do Azure](https://learn.microsoft.com/pt-br/azure/)
+- [Curso AZ-900 na DIO](https://www.dio.me/)
 
 ### 🛠 Tecnologias Utilizadas
 <div align="left">
