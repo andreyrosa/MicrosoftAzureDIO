@@ -114,17 +114,6 @@ Neste módulo prático do curso **AZ-900 (Microsoft Azure Fundamentals)**, adqui
 ### 🌐 Rede Virtual (VNET)
 - Criação de **VNETs (Virtual Networks)** para organização de redes privadas no Azure.
 - Definição de **endereçamento IP** para os ambientes virtuais.
-
----
-
-## 📸 Capturas de Tela
-
-| Criação do Grupo de Recursos | Visualização do Grupo Criado |
-|-----------------------------|------------------------------|
-| ![Criação](./caminho/para/imagem1.png) | ![Grupo](./caminho/para/imagem2.png) |
-
-> Substitua os caminhos acima pelas imagens reais no seu repositório (`/img/criacao.png`, por exemplo).
-
 ---
 
 ## 🧰 Tecnologias Utilizadas
