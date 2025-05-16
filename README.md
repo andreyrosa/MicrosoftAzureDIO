@@ -35,13 +35,6 @@ As máquinas virtuais do Azure são recursos de computação sob demanda que ofe
 ☁️⚙️
 
 ---
-
-## 👤 Sobre Mim
-
-Sou um estudante/profissional de tecnologia focado em aprender sobre soluções em nuvem, especialmente na plataforma Microsoft Azure. Este repositório documenta minha jornada de aprendizado sobre máquinas virtuais e outros recursos do Azure.
-
----
-
 ## 🎓 O que Aprendi no Azure
 
 Este repositório documenta meu aprendizado sobre máquinas virtuais no Azure, incluindo conceitos fundamentais, configurações, boas práticas e implementações práticas. Os conhecimentos adquiridos fazem parte do curso AZ-900 (Microsoft Azure Fundamentals).
@@ -195,17 +188,6 @@ Esse aprendizado foi fundamental para entender como gerenciar a infraestrutura e
 - [Curso AZ-900 na DIO](https://dio.me)
 
 ---
-
-## 📬 Contato
-
-Se tiver dúvidas ou quiser trocar ideias sobre Azure, sinta-se à vontade para me contatar!
-
-- E-mail: seu-email@example.com
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-perfil)
-- GitHub: [seu-github](https://github.com/seu-usuario)
-
----
-
 ## 🛠 Passos Práticos na Criação de Recursos no Azure
 
 A seguir, documentei os passos práticos realizados no Azure Portal para criar uma máquina virtual, um pool de hosts e um aplicativo de funções, com foco nas configurações de redundância, armazenamento e diagnóstico.
