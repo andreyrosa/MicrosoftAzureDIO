@@ -240,7 +240,36 @@ Aprendi a utilizar o Speech Studio para criar, testar e melhorar modelos de conv
 🧰 Conhecendo o Language Studio
 Tive contato com o Language Studio, uma ferramenta poderosa do Azure que permite a criação de projetos de linguagem natural com foco em classificação de texto, extração de informações e análise semântica.
 
-🎯 Entendendo o Desafio
+
+## 🛠️ Gerenciamento de Recursos no Azure
+
+- **Listagem e Filtros**: Aprendi a listar e filtrar recursos no Azure Portal, como serviços de pesquisa (`azuresearchmod5`), contas de armazenamento (`storageacc11`) e contas multi-serviços (`instancename01`).
+- **Detalhes dos Recursos**:
+  - **Grupo de Recursos**: `AZ-900_LAB_DIO`
+  - **Localização**: `East US`
+  - **Assinatura**: `Azure subscription 1`
+- **Organização**: Utilizei filtros para agrupar recursos por tipo, localização e assinatura, facilitando a gestão.
+
+## 📦 Azure Blob Storage
+
+- **Contêineres**: Trabalhei com a conta de armazenamento `storageacc11`, explorando a criação e gerenciamento de contêineres.
+- **Gerenciamento de Contêineres**:
+  - Criei contêineres como `slogs` e `coffeereviews`.
+  - Configurei níveis de acesso (público, privado, contêiner) e verifiquei estados de conexão.
+  - Acompanhei a última modificação dos contêineres (ex.: `18/05/2025`).
+- **Uso Prático**: Entendi como o Blob Storage pode ser usado para armazenar dados não estruturados, como logs e arquivos de texto.
+
+## 🔍 Azure AI Search
+
+- **Serviço de Pesquisa**: Configurei e explorei o `azuresearchmod4`, um serviço de pesquisa baseado em IA.
+- **Índices e Pesquisa**:
+  - Criei um índice chamado `coffee-index`.
+  - Realizei consultas específicas, como `search=locations:'Chicago'`, para buscar dados com base em critérios.
+- **Funcionalidades**:
+  - Naveguei pelo **Search Explorer** para testar consultas.
+  - Aprendi sobre a integração do Azure AI Search com outros serviços para criar experiências de busca com texto completo e ranqueamento semântico.
+
+
 
 ## 📚 Referências
 
