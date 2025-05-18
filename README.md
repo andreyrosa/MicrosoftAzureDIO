@@ -222,6 +222,26 @@ A seguir, documentei os passos práticos realizados no Azure Portal para criar u
 
 ---
 
+🧠 Análise de Texto e Resposta a Perguntas
+Aprendi como utilizar os serviços cognitivos do Azure para analisar textos, identificar sentimentos, extrair entidades e responder a perguntas automaticamente, facilitando a criação de soluções inteligentes baseadas em linguagem natural.
+
+🤖 Serviço de Bot do Azure
+Explorei como criar, configurar e integrar bots inteligentes utilizando o Azure Bot Service, permitindo interações automatizadas com usuários por meio de canais como chat, Teams e outros.
+
+🗣️ Compreensão da Linguagem Coloquial
+Estudei como treinar modelos capazes de entender linguagem informal e expressões cotidianas, algo essencial para tornar aplicações mais próximas da forma como as pessoas realmente se comunicam.
+
+🔗 Links Úteis
+Foram disponibilizados recursos e materiais de apoio com links para a documentação oficial da Microsoft, exemplos práticos e laboratórios online, que complementaram muito bem o conteúdo apresentado.
+
+🧪 Conhecendo o Estúdio de Fala
+Aprendi a utilizar o Speech Studio para criar, testar e melhorar modelos de conversão de fala em texto e vice-versa, além de reconhecer comandos de voz e ajustar sotaques ou pronúncias específicas.
+
+🧰 Conhecendo o Language Studio
+Tive contato com o Language Studio, uma ferramenta poderosa do Azure que permite a criação de projetos de linguagem natural com foco em classificação de texto, extração de informações e análise semântica.
+
+🎯 Entendendo o Desafio
+
 ## 📚 Referências
 
 - [Documentação Oficial do Azure](https://docs.microsoft.com/azure)
